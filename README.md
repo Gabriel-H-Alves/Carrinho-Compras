@@ -20,7 +20,7 @@ A simple shopping cart app built with HTML, CSS, and JavaScript that allows user
 
 - **HTML**: Estrutura da página. / Page structure.  
 - **CSS**: Estilização e layout responsivo. / Styling and responsive layout.  
-- **JavaScript**: Lógica do carrinho, eventos e DOM. / Cart logic, event handling, and DOM manipulation.
+- **JavaScript**: Lógica do carrinho, eventos. / Cart logic, event handling.
 
 ---
 
